@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: A Draught of the Blue — An Essence of the Dusk
 url: http://www.gutenberg.org/ebooks/49033
